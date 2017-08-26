@@ -1,0 +1,22 @@
+{
+  "name": "time-stamp-fcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miti68/time-stamp-fcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miti68/time-stamp-fcc/issues"
+  },
+  "homepage": "https://github.com/miti68/time-stamp-fcc#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
